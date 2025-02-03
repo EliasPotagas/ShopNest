@@ -45,12 +45,18 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
 </details>
 
 # Entity Relation Diagram
+
+ShopNets database consists of 108,127 records and four tables: orders, customers, geo_lookup, and order_status.
+
   ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/dfbf9ebf2af0840c04e10c4037eb0cfaa127f4a3/ERD.png)
 
-# Dashboard
+# Dashboard 
+
+The interactive dashboard can be found in Tableau Public here. This dashboard enables users to filter by customer region, year, and loyalty program focusing on sales, product, and marketing metrics.
+
 ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/373fe8ebf432c5b526808579cdbba0185791801d/Dashboard.png)
 
 # Executive Summary 
-![Image Alt]()
+![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/7e1bd354f58975c23f26e4080978c00d44e56278/Overall_Sales.png)
 
 
