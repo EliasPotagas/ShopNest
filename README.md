@@ -45,7 +45,12 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
   - Tableau: Dashboard can be found here.
 </details>
 
-# Executive Summary
+<details>
+  <summary>ERD</summary>
+  ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/373fe8ebf432c5b526808579cdbba0185791801d/Dashboard.png)
+</details>
 
+# Executive Summary
+![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/373fe8ebf432c5b526808579cdbba0185791801d/Dashboard.png)
 
 
