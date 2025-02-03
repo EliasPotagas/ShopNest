@@ -25,9 +25,8 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
     - How do these trends compare between recent months and previous months?
 
   - **What was our refund rate?**
-    - Which products had the highest refund rates?
-    - Which products had the highest refunds?
-    - Which brands were involved?
+    - Which products/brands had the highest refund rates?
+    - Which products/brands had the highest refunds?
     - How much did we spend on refunds?
 
   - **What was the most popular product in each region?**
@@ -45,12 +44,17 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
   - Tableau: Dashboard can be found here.
 </details>
 
-<details>
-  <summary>ERD</summary>
-  ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/373fe8ebf432c5b526808579cdbba0185791801d/Dashboard.png)
-</details>
+# Entity Relation Diagram
+  ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/dfbf9ebf2af0840c04e10c4037eb0cfaa127f4a3/ERD.png)
 
 # Executive Summary
+
+
+
+
+
 ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/373fe8ebf432c5b526808579cdbba0185791801d/Dashboard.png)
+
+
 
 
