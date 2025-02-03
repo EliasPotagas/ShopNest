@@ -47,14 +47,10 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
 # Entity Relation Diagram
   ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/dfbf9ebf2af0840c04e10c4037eb0cfaa127f4a3/ERD.png)
 
-# Executive Summary
-
-
-
-
-
+# Dashboard
 ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/373fe8ebf432c5b526808579cdbba0185791801d/Dashboard.png)
 
-
+# Executive Summary 
+![Image Alt]()
 
 
