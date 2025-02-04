@@ -58,7 +58,7 @@ The interactive dashboard can be found in Tableau Public here.
 
 # Executive Summary 
 
-Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, with 108K total orders. The company’s AOV was $260, and the overall refund rate stood at 3.79%.
+Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, with 108K total orders. The company’s AOV was $260, and the overall refund rate stood at 5.04%.
 
 ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/7e1bd354f58975c23f26e4080978c00d44e56278/Overall_Sales.png)
 
