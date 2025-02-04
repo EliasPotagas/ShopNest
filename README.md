@@ -84,13 +84,18 @@ Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, wit
   - The Loyalty Program was first launched in 2019, initially contributing a modest 11% of total sales, while non-members accounted for 89%. However, by 2021, members' contribution to total revenue had risen significantly to 50%, a level that was sustained in 2022.
   - The AOV for loyalty members has been steadily rising highlighting the effectiveness of our loyalty program perks in driving higher spending among members, whereas non-members appear less inclined to spend due to the absence of benefits.
   - Between Q4 2020 and Q3 2022, loyalty members placed most orders, with a 10% higher order rate and rising AOV. While non-members generated $17 million in sales (2019–2022) versus $10 million from members, loyalty revenue is on track to surpass non-members, underscoring the program’s growing impact.
-  - Given the positive trajectory in order volume, AOV, and overall sales among loyalty members, it is recommended to increase promotion and marketing efforts for the Loyalty Program to encourage more users to join to maximize revenue.
+  - Given the positive trajectory in order volume, AOV, and overall sales among loyalty members, it is recommended to increase promotion and marketing efforts for the Loyalty Program to encourage more users to join to increase overall AOV.
 
 
 
 
 
 
+# Geographical Trends
+  ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/5911e3e67ee3c0d57b0f2a08f1b3b8c053982a08/Country_Sales.png)
+  - The top 10 best-performing countries contributed 80% of total revenue and 71% of total orders, with the United States leading at 47% of total sales ($13.3M) and an AOV of $262.
+  - Japan recorded the highest AOV at $395, driven by strong laptop sales, which accounted for 50% of the region’s total revenue, highlighting a key opportunity for further targeted promotions.
+  - Across all regions, Loyalty Program members contributed 40% of sales, reinforcing its global effectiveness and continued growth as its benefits gain traction.
 
 
 
@@ -123,9 +128,8 @@ Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, wit
   - Refunds (Total refunds, refund rate, overall cost)
   - Sales (AOV, Revenue)
   - Slice of total sales per product (per year and overall)
-# Geographical Trends
-  - Sales by country/region. Who made up the most
-  - most frequent product purchased
+
+
 # Sales Trends
   - Seasonal Trends
   - YoY Trends
