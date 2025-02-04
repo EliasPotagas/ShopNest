@@ -99,35 +99,12 @@ Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, wit
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Product Performance
-  - Refunds (Total refunds, refund rate, overall cost)
-  - Sales (AOV, Revenue)
-  - Slice of total sales per product (per year and overall)
+![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/d2b7bd486f707ab7fe432bb93de123859bedab41/Brand_refunds.png)
+  - The overall refund rate stood at 5.04%, with 5,379 refunds issued out of 108K orders, resulting in a total refund cost of $1.7M.
+  - Among brands, Apple had the highest number of refunds issued, with AirPods accounting for the most refunds, while MacBook laptops recorded a 12% refund rate.
+  - Despite this, Apple led in total sales, generating $14M, with AirPods as the top-selling product, contributing $7.8M in revenue with 48K orders (45% of total orders).
+  - Meanwhile, the Samsung Gaming Monitor was the best-performing product by revenue, generating $10M, with consistent year-over-year order growth, except in 2022, when all products saw a 30–45% decline in orders.
 
 
 # Sales Trends
