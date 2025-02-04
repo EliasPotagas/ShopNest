@@ -81,6 +81,7 @@ Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, wit
 
 # Loyalty Program
   - AOV + Sales Graph
+  - ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/a62efd69f7c521e9e7726866f047c1661124c2b5/Loyalty_AOV_Participation.png)
   - Loyalty Program Sales Slice per region. How was its performance overall?
   - How much has our Loyalty Program grown? Are we increasing our subscribers? We were sharply increasing our Subscribers until 2022 is when we saw a decline in our subscribers but program still increased by 623% overall from 2019 to 2022.
 
