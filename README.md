@@ -52,34 +52,20 @@ ShopNets database consists of 108,127 records and four tables: orders, customers
 
 # Dashboard 
 
-The interactive dashboard can be found in Tableau Public here. This dashboard enables users to filter by customer region, year, and loyalty program focusing on sales, product, and marketing metrics. 
+The interactive dashboard can be found in Tableau Public here. 
 
 ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/ab076e8e5909a1c6690d1c3ec7d984469bc62820/Dashboard_v2.png)
 
 # Executive Summary 
 
-Total Overall Sales for the period Jan 1st. 2019 - Dec 31st. 2022 was $28M with 108k total orders. Companies AOV was $260 and our overall refund rate was 3.79%%
+Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, with 108K total orders. The company’s AOV was $260, and the overall refund rate stood at 3.79%.
+
 ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/7e1bd354f58975c23f26e4080978c00d44e56278/Overall_Sales.png)
 
-- In 2020 we saw the highest growth in Revenue accumulating $10.2M a near 300% increase from previous year, a 31% increase in AOV to $300 and a 100% increase in orders.
-- This can be attributed to the pandemic lockdowns and demand for electronic products during COVID-19 lockdowns.
-- Since 2020 however, when the pandemic polciies began easing up we started to get see a 10% decline in revenue and 15% in AOV.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  - In 2020, we experienced exceptional growth, surpassing expectations with a $10.2M increase in revenue (+300% YoY), AOV rising to $300 (+81% YoY), and a total orders reaching 11k (+86% YoY).
+  - However since the beginning of 2021 we saw a gradual decline across metrics with revenue down 11% and our AOV 15% despite an orders increase of 6%. This downward trend continued in 2022 with a 46% decline in revenue with other metrics following a similar trajectory.
+  - Our Loyalty Program has been showing strong performance. Initially non-subscribers contributed the majority of revenue and orders. However, between Q1 2021 and Q3 2022, subscriber base grew significantly, surpassing non-subscribed users across key metrics.
+  - Apple products accounted for 50% of total sales, with the iPhone having the lowest sales volume but a high AOV. Targeted marketing for high-AOV, low-volume products through bundle promotions could drive significant revenue growth.
 
 
 
@@ -97,6 +83,30 @@ Total Overall Sales for the period Jan 1st. 2019 - Dec 31st. 2022 was $28M with 
   - AOV + Sales Graph
   - Loyalty Program Sales Slice per region. How was its performance overall?
   - How much has our Loyalty Program grown? Are we increasing our subscribers? We were sharply increasing our Subscribers until 2022 is when we saw a decline in our subscribers but program still increased by 623% overall from 2019 to 2022.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Product Performance
   - Refunds (Total refunds, refund rate, overall cost)
   - Sales (AOV, Revenue)
