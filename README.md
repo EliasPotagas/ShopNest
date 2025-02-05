@@ -69,16 +69,6 @@ Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, wit
 
 
 
-
-
-
-
-
-
-
-
-
-
 # Loyalty Program
   ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/4a82a5fe541569f747dd0ab84bafdf84d4ec3629/Loyalty_AOV_Participation_2.png)
 The program, launched in 2019 to incentivize more frequent purchases through points-based rewards and discount offers and is now undergoing a four-year performance evaluation to determine whether it should be continued.
@@ -102,9 +92,11 @@ The program, launched in 2019 to incentivize more frequent purchases through poi
 
 # Product Performance
 ## Overview
+
+![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/ecb02a17ce3206e107610003f7fef65da51e91e8/test3.png)
+
 ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/d2b7bd486f707ab7fe432bb93de123859bedab41/Brand_refunds.png)
 
-![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/9dbcafb99dad8edc1fc9c620cf5fb5ba9e0c7079/product%20tables.png)
   - The overall refund rate stood at 5.04%, with 5,379 refunds issued out of 108K orders, resulting in a total refund cost of $1.7M.
   - Among brands, Apple had the highest number of refunds issued, with AirPods accounting for the most refunds, while MacBook laptops recorded a 12% refund rate.
   - Despite this, Apple led in total sales, generating $14M, with AirPods as the top-selling product, contributing $7.8M in revenue with 48K orders (45% of total orders).
