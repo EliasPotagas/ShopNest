@@ -72,22 +72,22 @@ Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, wit
 # Loyalty Program
   ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/4a82a5fe541569f747dd0ab84bafdf84d4ec3629/Loyalty_AOV_Participation_2.png)
 The program, launched in 2019 to incentivize more frequent purchases through points-based rewards and discount offers and is now undergoing a four-year performance evaluation to determine whether it should be continued.
-  - The Loyalty Program was initially contributing a modest 11% of total sales, while non-members accounted for 89%. However, by 2021, members' contribution to total revenue had risen significantly to 50%, a level that was sustained in 2022.
-  - The AOV for loyalty members has been steadily rising highlighting the effectiveness of our loyalty program perks driving higher spending among members, whereas non-members appear less inclined to spend due to the absence of these rewards and benefits.
-  - Between Q4 2020 and Q3 2022, loyalty members placed most orders, with a 10% higher order rate and rising AOV. While non-members generated $17 million in sales (2019–2022) versus $10 million from members, loyalty revenue is on track to surpass non-members, underscoring the program’s growing impact.
-  - Given the positive trajectory in order volume, AOV, and overall sales among loyalty members, it is recommended to increase promotion and marketing efforts for the Loyalty Program to encourage more users to join to increase overall AOV.
+  - Sales Growth: The Loyalty Program was initially contributing a modest 11% of total sales, while non-members accounted for 89%. However, by 2021, members' contribution to total revenue had risen significantly to 50%, a level that was sustained in 2022.
+  - AOV Growth: The AOV for loyalty members has been steadily rising highlighting the effectiveness of our loyalty program perks driving higher spending among members, whereas non-members appear less inclined to spend due to the absence of these rewards and benefits.
+  - Revenue Contribution: Between Q4 2020 and Q3 2022, loyalty members placed most orders, with a 10% higher order rate and rising AOV. While non-members generated $17 million in sales (2019–2022) versus $10 million from members, loyalty revenue is on track to surpass non-members, underscoring the program’s growing impact.
+  - Insight: Given the positive trajectory in order volume, AOV, and overall sales among loyalty members, it is recommended to increase promotion and marketing efforts for the Loyalty Program to encourage more users to join to increase overall AOV.
 
 
 
 
 
 
-# Geographical Trends mention delivery time it takes
+# Geographical Trends
   ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/5911e3e67ee3c0d57b0f2a08f1b3b8c053982a08/Country_Sales.png)
 ShopNest serves customers in 194 countries across four global regions: North America (NA), Europe, Middle East & Africa (EMEA), Asia-Pacific (APAC), and Latin America (LATAM).
-  - The top 10 best-performing countries accounted for 80% of total revenue and 71% of total orders, with the United States leading at 47% of total sales ($13.3M) and an average order value (AOV) of $262. The highest sales contributor in the U.S. was the Sony gaming monitor contributing 35% of countries sales.
-  - Japan recorded the highest AOV at $395, driven by strong laptop sales, which contributed 50% of the region’s total revenue. This indicates a high consumer preference for premium tech products, presenting an opportunity to expand laptop promotions for Loyalty members to utilize.
-  - Across all regions, Loyalty Program members contributed 40% of sales, reinforcing its global effectiveness and continued growth as its benefits gain traction.
+  - Top Market Contributor: The top 10 best-performing countries accounted for 80% of total revenue and 71% of total orders, with the United States leading at 47% of total sales ($13.3M) and an average order value (AOV) of $262. The highest sales contributor in the U.S. was the Sony gaming monitor contributing 35% of countries sales.
+  - Highest AOV: Japan recorded the highest AOV at $395, driven by strong laptop sales, which contributed 50% of the region’s total revenue. This indicates a high consumer preference for premium tech products, presenting an opportunity to expand laptop promotions for Loyalty members to utilize.
+  - Loyalty Program Impact: Across all regions, Loyalty Program members contributed 40% of sales, reinforcing its global effectiveness and continued growth as its benefits gain traction.
 
 
 
@@ -96,10 +96,10 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
 ## Sales
 ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/ecb02a17ce3206e107610003f7fef65da51e91e8/test3.png)
 
-  - Apple products led in sales, generating $14M in revenue, accounting for 48% of total orders, with an AOV of $271, making it the dominant sales contributor across all four regions.
-  - Apple AirPods were the best-performing product in terms of order count, with 48K orders (45% of total orders), generating $7.8M in sales (28% of total revenue) and an AOV of $160.
-  - Sony’s Gaming Monitor was the top-performing product by revenue, contributing 35% of total revenue, with an AOV of $420.
-  - Despite Samsung products making up 30% of total orders, they only accounted for 3% of total sales, due to a low AOV of $28.
+  - Sales Leader: Apple products led in sales, generating $14M in revenue, accounting for 48% of total orders, with an AOV of $271, making it the dominant sales contributor across all four regions.
+  - Highest Order Volume: Apple AirPods were the best-performing product in terms of order count, with 48K orders (45% of total orders), generating $7.8M in sales (28% of total revenue) and an AOV of $160.
+  - Top Product: Sony’s Gaming Monitor was the top-performing product by revenue, contributing 35% of total revenue, with an AOV of $420.
+  - Underperforming Brand: Despite Samsung products making up 30% of total orders, they only accounted for 3% of total sales, due to a low AOV of $28.
 ### Recommendations:
 - Samsung Products: While demand is high, introducing product bundles with higher AOV items could drive increased revenue and profitability by encouraging larger purchases.
 - Apple iPhone: With only 288 orders but a high AOV of $740, targeted Loyalty Program promotions with exclusive discounts for existing Apple consumers could boost sales, strengthen Loyalty Program engagement, and drive a notable increase in total revenue.
@@ -110,8 +110,7 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
   
   - The overall refund rate stood at 5.04%, with 5,379 refunds issued out of 108K orders, totaling $1.7M in refund costs.
   - Apple products accounted for the majority of refunds (3,111), with a 5.91% return rate, totaling $1.2M in refund costs, representing 70% of all refunds issued.
-  - Apple AirPods were the primary driver, making up 83% of Apple product refunds.
-  - MacBook laptops had the highest return rate among Apple products at 11.6%.
+  - Apple AirPods accounted for 83% of all Apple product refunds, making them the primary driver of returns. Meanwhile, MacBook laptops had the highest return rate among Apple products at 11.6%.
   - Lenovo’s Thinkpad Laptop had the highest overall refund rate at 12%, exceeding all other product categories.
 ### Recommendation: 
   - Conduct a quality assurance review and consumer feedback analysis to identify the key reasons behind the high return rates, particularly for ThinkPad and Apple laptops, and implement necessary improvements to reduce refunds.
@@ -126,3 +125,12 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
   - -When did users make their first purchase? Was there a change depending on the year?
 # Insights and Recommendations
 
+
+# Summary 
+- Since its launch in 2019, the Loyalty Program has significantly expanded, growing from 11% to 50% of total sales by 2021, a level sustained in 2022. Additionally, AOV for loyalty members has been steadily increasing, highlighting the effectiveness of the program's perks in driving higher spending. Expanding promotions could further boost participation and overall revenue.
+
+Geographical Sales Insights: The U.S. remains the dominant market, contributing 47% of total sales ($13.3M), while Japan leads in AOV at $395, driven by premium laptop sales. Loyalty members account for 40% of global sales, reinforcing the program’s effectiveness.
+
+Product Performance Trends: Apple products lead in sales ($14M, 48% of total orders), with AirPods dominating order volume (48K orders, $7.8M in sales). Sony’s Gaming Monitor is the top revenue generator (35% of total revenue, AOV of $420), while Samsung struggles with profitability despite high order volume.
+
+Refund Analysis & Recommendations: The overall refund rate stands at 5.04%, with Apple products contributing 70% of total refunds ($1.2M), primarily due to AirPods (83% of Apple refunds). Lenovo’s ThinkPad Laptop has the highest refund rate (12%), necessitating quality assurance reviews and targeted product improvements to reduce return rates.
