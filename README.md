@@ -82,7 +82,7 @@ The program, launched in 2019 to incentivize more frequent purchases through poi
 
 
 
-# Geographical Trends
+# Geographical Trends mention delivery time it takes
   ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/5911e3e67ee3c0d57b0f2a08f1b3b8c053982a08/Country_Sales.png)
 ShopNest serves customers in 194 countries across four global regions: North America (NA), Europe, Middle East & Africa (EMEA), Asia-Pacific (APAC), and Latin America (LATAM).
   - The top 10 best-performing countries accounted for 80% of total revenue and 71% of total orders, with the United States leading at 47% of total sales ($13.3M) and an average order value (AOV) of $262. The highest sales contributor in the U.S. was the Sony gaming monitor contributing 35% of countries sales.
@@ -101,8 +101,8 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
   - Sony’s Gaming Monitor was the top-performing product by revenue, contributing 35% of total revenue, with an AOV of $420.
   - Despite Samsung products making up 30% of total orders, they only accounted for 3% of total sales, due to a low AOV of $28.
 ### Recommendations:
-- Samsung Products: While demand is high, an increase in price or bundling strategies with higher AOV products could help boost revenue and profitability.
-- Apple iPhone: With only 288 orders but a high AOV of $740, targeted Loyalty Program promotions with discount incentives for existing Apple consumers could boost sales while further enhancing Loyalty Program appeal, driving a significant increase in total revenue.
+- Samsung Products: While demand is high, introducing product bundles with higher AOV items could drive increased revenue and profitability by encouraging larger purchases.
+- Apple iPhone: With only 288 orders but a high AOV of $740, targeted Loyalty Program promotions with exclusive discounts for existing Apple consumers could boost sales, strengthen Loyalty Program engagement, and drive a notable increase in total revenue.
 
 
 ## Refunds UPDATE IMAGE 
