@@ -60,7 +60,7 @@ The interactive dashboard can be found in Tableau Public here.
 
 Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, with 108K total orders. The company’s AOV was $260, and the overall refund rate stood at 5.04%.
 
-![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/7e1bd354f58975c23f26e4080978c00d44e56278/Overall_Sales.png)
+![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/4e3af273615ec338ad363a7f2bf1595f29bf59df/Overall_Sales_Growth.png)
 
   - In 2020, we experienced exceptional growth, surpassing expectations with a $10.2M increase in revenue (+300% YoY), AOV rising to $300 (+81% YoY), and a total orders reaching 11k (+86% YoY).
   - However since the beginning of 2021 we saw a gradual decline across metrics with revenue down 11% and our AOV 15% despite an orders increase of 6%. This downward trend continued in 2022 with a 46% decline in revenue with other metrics following a similar trajectory.
