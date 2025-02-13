@@ -92,6 +92,12 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
 
 
 # Product Trends
+## Brands
+![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/265eab5c076a2d574bb8018a00938cab75aa6b3e/Brand_performance.png)
+
+## Products
+![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/265eab5c076a2d574bb8018a00938cab75aa6b3e/product_table.png)
+
 
 ## Sales
 ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/ecb02a17ce3206e107610003f7fef65da51e91e8/test3.png)
