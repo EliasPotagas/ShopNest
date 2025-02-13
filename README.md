@@ -100,8 +100,6 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
 
 
 ## Sales
-![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/ecb02a17ce3206e107610003f7fef65da51e91e8/test3.png)
-
   - Sales Leader: Apple products led in sales, generating $14M in revenue, accounting for 48% of total orders, with an AOV of $271, making it the dominant sales contributor across all four regions.
   - Highest Order Volume: Apple AirPods were the best-performing product in terms of order count, with 48K orders (45% of total orders), generating $7.8M in sales (28% of total revenue) and an AOV of $160.
   - Top Product: Sony’s Gaming Monitor was the top-performing product by revenue, contributing 35% of total revenue, with an AOV of $420.
@@ -129,7 +127,6 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
 ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/990a627492be5e6a8befdc41491ad8f417dd8427/sales_graph_3.png)
   - Seasonal Trends
 ![Image ALt](https://github.com/EliasPotagas/ShopNest/blob/56a708c71e03e3e1d4d1e2bde1ee48dafbb07fe4/Seasonal_table_2.png)
-
 
   - -When did users make their first purchase? Was there a change depending on the year?
 # Insights and Recommendations
