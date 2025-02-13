@@ -111,8 +111,8 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
 - Apple iPhone: With only 288 orders but a high AOV of $740, targeted Loyalty Program promotions with exclusive discounts for existing Apple consumers could boost sales, strengthen Loyalty Program engagement, and drive a notable increase in total revenue.
 
 
-## Refunds UPDATE IMAGE 
-![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/42ef56bee243efb7ab7d3e3b92636365a73b94b1/brand_refund_solo.png)
+## Refunds
+![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/0ffbddf33d55fbaec22057b26aa197b82d60fe02/brand_refunds_v3.png)
   
   - The overall refund rate stood at 5.04%, with 5,379 refunds issued out of 108K orders, totaling $1.7M in refund costs.
   - Apple products accounted for the majority of refunds (3,111), with a 5.91% return rate, totaling $1.2M in refund costs, representing 70% of all refunds issued.
