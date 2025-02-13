@@ -70,7 +70,7 @@ Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, wit
 
 
 # Loyalty Program
-  ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/4a82a5fe541569f747dd0ab84bafdf84d4ec3629/Loyalty_AOV_Participation_2.png)
+  ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/08789661e3d166a6d48f96b0ad707898d5695051/loyalty_program_2.png)
 The program, launched in 2019 to incentivize more frequent purchases through points-based rewards and discount offers and is now undergoing a four-year performance evaluation to determine whether it should be continued.
   - Sales Growth: The Loyalty Program was initially contributing a modest 11% of total sales, while non-members accounted for 89%. However, by 2021, members' contribution to total revenue had risen significantly to 50%, a level that was sustained in 2022.
   - AOV Growth: The AOV for loyalty members has been steadily rising highlighting the effectiveness of our loyalty program perks driving higher spending among members, whereas non-members appear less inclined to spend due to the absence of these rewards and benefits.
