@@ -120,10 +120,11 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
 
 
 # Sales Trends
+![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/990a627492be5e6a8befdc41491ad8f417dd8427/sales_graph_3.png)
   - Seasonal Trends
 ![Image ALt](https://github.com/EliasPotagas/ShopNest/blob/56a708c71e03e3e1d4d1e2bde1ee48dafbb07fe4/Seasonal_table_2.png)
-![Image ALt](https://github.com/EliasPotagas/ShopNest/blob/56a708c71e03e3e1d4d1e2bde1ee48dafbb07fe4/Seasonal_table.png)
-![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/990a627492be5e6a8befdc41491ad8f417dd8427/sales_graph_3.png)
+
+
   - -When did users make their first purchase? Was there a change depending on the year?
 # Insights and Recommendations
 
