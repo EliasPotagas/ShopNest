@@ -58,14 +58,55 @@ The interactive dashboard can be found in Tableau Public here.
 
 # Executive Summary 
 
+
+![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/912f6dd272da51bdd74be7e148cb1f726614e397/Executive_summary.png)
 Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, with 108K total orders. The company’s AOV was $260, and the overall refund rate stood at 5.04%.
 
-![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/4e3af273615ec338ad363a7f2bf1595f29bf59df/Overall_Sales_Growth.png)
+  - Covid Spike: In 2020, the company saw a significant surge across all key metrics. Revenue soared by 160% to $10M, while units sold doubled to 34K. The AOV also rose from $230 to $300. MacBooks led the growth, with sales skyrocketing by 383%, making them a major contributor to the revenue spike. March recorded the highest percentage increase in sales, rising by 50%, coinciding with the onset of COVID-19 lockdowns.
 
-  - In 2020, we experienced exceptional growth, surpassing expectations with a $10.2M increase in revenue (+300% YoY), AOV rising to $300 (+81% YoY), and a total orders reaching 11k (+86% YoY).
-  - However since the beginning of 2021 we saw a gradual decline across metrics with revenue down 11% and our AOV 15% despite an orders increase of 6%. This downward trend continued in 2022 with a 46% decline in revenue with other metrics following a similar trajectory.
-  - Our Loyalty Program has been showing strong performance. Initially non-subscribers contributed the majority of revenue and orders. However, between Q1 2021 and Q3 2022, subscriber base grew significantly, surpassing non-subscribed users across key metrics.
-  - Apple products accounted for 50% of total sales, with the iPhone having the lowest sales volume but a high AOV. Targeted marketing for high-AOV, low-volume products through bundle promotions could drive significant revenue growth.
+  - Sales Decline: December 2020 marked the peak across all key metrics, but since then, the company has struggled to sustain those levels, experiencing a downturn. This declne can be attributed to the implementation of return-to-office policies and reduced consumer need for electronics, as many had already made significant purchases the previous year. Sales declined by 10% in 2021 and further plummeted by 46% in 2022, with other metrics following a similar downward trajectory.
+  
+  - Program Performance: The Loyalty Program has shown strong performance and continues to demonstrate promising growth. Since its inception, it has expanded significantly, increasing the share of total sales from 11% in 2019 to 50% by 2021—a level maintained in 2022. Furthermore, the AOV for loyalty members has been gradually increasing, while non-member AOV has declined. To capitalize on this success, the program should continue and be promoted more actively to users.
+
+  - Product Performance: Sony’s gaming monitor was the top performer, contributing 35% of total sales, while Apple products led as the top brand, accounting for 50% of sales. The overall refund rate stands at 5.04%, with Apple products making up 70% of total refunds, amounting to $1.2M in refund costs. Additionally, Laptops had the highest refund rate at 12%, highlighting a need for quality assurance reviews and product assessments to reduce return rates.
+
+
+# Sales Trends
+![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/990a627492be5e6a8befdc41491ad8f417dd8427/sales_graph_3.png)
+<table>
+  <tr>
+    <td style="background-color: #222; color: white; width: 50%; vertical-align: top;">
+      <h2 style="margin: 0; padding: 0; display: inline-block;">Sales</h2>
+      <ul>
+        <li><b>Entire Period:</b> Average monthly revenue of <b>$585K</b>, with a <b>0.6% growth rate</b>.</li>
+        <li><b>Pandemic Surge:</b> Sales jumped <b>160%</b> to <b>$10M</b>, peaking at <b>$1.25M in December</b>.</li>
+        <li><b>Post-Pandemic:</b> Sales fell <b>10% in 2021</b> and <b>46% in 2022</b>, dropping to <b>$178K</b> in October marking a new company low.</li>
+      </ul>
+      <h2 style="margin: 10px 0 0 0; padding: 0; display: inline-block;">AOV</h2>
+      <ul>
+        <li><b>Entire Period:</b> AOV averaged <b>$253</b> with <b>0.01% growth rate</b>.</li>
+        <li><b>Peak & Drop:</b> AOV hit <b>$321 in October 2020</b> but declined to <b>$217 by October 2022</b>.</li>
+        <div style="display: none;"> &nbsp;</div>
+        <div style="display: none;"> &nbsp;</div>
+        <div style="display: none;"> &nbsp;</div>
+      </ul>
+    </td>
+    <td style="background-color: #222; color: white; width: 50%; vertical-align: top;">
+      <h2 style="margin: 0; padding: 0; display: inline-block;">Orders</h2>
+      <ul>
+        <li><b>Entire Period:</b> Average <b>2.2K orders per month</b>, with a <b>0.72% growth rate</b>.</li>
+        <li><b>Pandemic Peak:</b> Orders peaked at <b>4K in December 2020</b>.</li>
+        <li><b>Post-Pandemic Drop:</b> Fell to <b>825 in October 2022</b>, a <b>50% decline</b> from 2019.</li>
+      </ul>
+      <h2 style="margin: 10px 0 0 0; padding: 0; display: inline-block;">Refunds</h2>
+      <ul>
+        <li><b>Entire Period:</b> Average <b>112 refunds per month</b>, growing <b>0.76%</b>.</li>
+        <li><b>Pandemic Spike:</b> Peaked at <b>369 in December 2020</b>.</li>
+        <li><b>Data Gap:</b> Tracking refund issues occurred after <b>August 2021</b>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 
@@ -91,22 +132,33 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
 
 
 
-# Product Trends
-## Brands
+# Brand Trends
 ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/265eab5c076a2d574bb8018a00938cab75aa6b3e/Brand_performance.png)
+- **Apple’s Market Dominance:** Apple products contributed **50.6% of total sales**, generating **$14 million** in revenue. They accounted for **48% of total orders** with an **AOV of $271**, remaining the top sales driver across all **four regions** and consistently leading each year.  
 
-## Products
+- **Samsung’s Low Revenue Contribution:** Despite making up **30% of total orders**, Samsung products contributed only **3% of total sales** due to a significantly lower **AOV of $28**.  
+
+- **Premium Products:** The strong sales performance of **Apple and Sony** highlights consumer demand and interest in **premium, high-value products**.  
+
+
+## Brand Products
 ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/265eab5c076a2d574bb8018a00938cab75aa6b3e/product_table.png)
 
+- **Highest Order Volume:** Apple AirPods led in order count with **48K orders (45% of total orders)**, generating **$7.8M in sales (28% of total revenue)** with an **AOV of $160**.  
 
-## Sales
-  - Sales Leader: Apple products led in sales, generating $14M in revenue, accounting for 48% of total orders, with an AOV of $271, making it the dominant sales contributor across all four regions.
-  - Highest Order Volume: Apple AirPods were the best-performing product in terms of order count, with 48K orders (45% of total orders), generating $7.8M in sales (28% of total revenue) and an AOV of $160.
-  - Top Product: Sony’s Gaming Monitor was the top-performing product by revenue, contributing 35% of total revenue, with an AOV of $420.
-  - Underperforming Brand: Despite Samsung products making up 30% of total orders, they only accounted for 3% of total sales, due to a low AOV of $28.
+- **Top Product by Revenue:** Sony’s Gaming Monitor was the highest revenue-generating product, contributing **35% of total revenue**, with an **AOV of $420**.  
+
+- **Laptop Demand & High AOV:** Laptops accounted for **33% of total sales ($9.5M)**. Despite having the **lowest order volume**, they had the **highest AOV**, averaging **$1.3K per order**.
+- **Least Popular Product:** Bose Headphones had the weakest performance, recording just **3K units sold** and **27 total orders**, making them the **least desirable product** in our catalog.
+- **Apple iPhone’s Underperformance:** Despite high demand for Apple products, the iPhone was the **worst-performing product**, with only **288 units sold**, generating **$213K in sales**.  
+
+
 ### Recommendations:
 - Samsung Products: While demand is high, introducing product bundles with higher AOV items could drive increased revenue and profitability by encouraging larger purchases.
 - Apple iPhone: With only 288 orders but a high AOV of $740, targeted Loyalty Program promotions with exclusive discounts for existing Apple consumers could boost sales, strengthen Loyalty Program engagement, and drive a notable increase in total revenue.
+- Removing the Bose Headphones from the website due to their poor performance and lack of resonance with customers would create space for a more appealing and higher-performing product.
+
+
 
 
 ## Refunds
@@ -119,24 +171,4 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
 ### Recommendation: 
   - Conduct a quality assurance review and consumer feedback analysis to identify the key reasons behind the high return rates, particularly for ThinkPad and Apple laptops, and implement necessary improvements to reduce refunds.
 
-
-
-
-
-# Sales Trends
-![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/990a627492be5e6a8befdc41491ad8f417dd8427/sales_graph_3.png)
-  - Seasonal Trends
-![Image ALt](https://github.com/EliasPotagas/ShopNest/blob/56a708c71e03e3e1d4d1e2bde1ee48dafbb07fe4/Seasonal_table_2.png)
-
-  - -When did users make their first purchase? Was there a change depending on the year?
 # Insights and Recommendations
-
-
-# Summary 
-- Since its launch in 2019, the Loyalty Program has significantly expanded, growing from 11% to 50% of total sales by 2021, a level sustained in 2022. Additionally, AOV for loyalty members has been steadily increasing, highlighting the effectiveness of the program's perks in driving higher spending. Expanding promotions could further boost participation and overall revenue.
-
-Geographical Sales Insights: The U.S. remains the dominant market, contributing 47% of total sales ($13.3M), while Japan leads in AOV at $395, driven by premium laptop sales. Loyalty members account for 40% of global sales, reinforcing the program’s effectiveness.
-
-Product Performance Trends: Apple products lead in sales ($14M, 48% of total orders), with AirPods dominating order volume (48K orders, $7.8M in sales). Sony’s Gaming Monitor is the top revenue generator (35% of total revenue, AOV of $420), while Samsung struggles with profitability despite high order volume.
-
-Refund Analysis & Recommendations: The overall refund rate stands at 5.04%, with Apple products contributing 70% of total refunds ($1.2M), primarily due to AirPods (83% of Apple refunds). Lenovo’s ThinkPad Laptop has the highest refund rate (12%), necessitating quality assurance reviews and targeted product improvements to reduce return rates.
