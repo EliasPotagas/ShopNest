@@ -141,7 +141,7 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
 - **Premium Products:** The strong sales performance of **Apple and Sony** highlights consumer demand and interest in **premium, high-value products**.  
 
 
-## Brand Products
+## Products
 ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/265eab5c076a2d574bb8018a00938cab75aa6b3e/product_table.png)
 
 - **Highest Order Volume:** Apple AirPods led in order count with **48K orders (45% of total orders)**, generating **$7.8M in sales (28% of total revenue)** with an **AOV of $160**.  
