@@ -58,8 +58,10 @@ The interactive dashboard can be found in Tableau Public here.
 
 # Executive Summary 
 
+<p align="center">
+  <img src="https://github.com/EliasPotagas/ShopNest/blob/227c8b85f038addb5bf805477b8c61dd5085b62d/Executive_summary_2.png" alt="Image Alt">
+</p>
 
-![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/f767634b3e3bfc4d27f71cb6accc19b0d172af14/sales_overview_2.png)
 Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, with 108K total orders. The company’s AOV was $260, and the overall refund rate stood at 5.04%.
 
   - Covid Spike: In 2020, the company saw a significant surge across all key metrics. Revenue soared by 160% to $10M, while units sold doubled to 34K. The AOV also rose from $230 to $300. MacBooks led the growth, with sales skyrocketing by 383%, making them a major contributor to the revenue spike. March recorded the highest percentage increase in sales, rising by 50%, coinciding with the onset of COVID-19 lockdowns.
