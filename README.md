@@ -59,7 +59,7 @@ The interactive dashboard can be found in Tableau Public here.
 # Executive Summary 
 
 
-![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/912f6dd272da51bdd74be7e148cb1f726614e397/Executive_summary.png)
+![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/990a627492be5e6a8befdc41491ad8f417dd8427/sales_graph_3.png)
 Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, with 108K total orders. The company’s AOV was $260, and the overall refund rate stood at 5.04%.
 
   - Covid Spike: In 2020, the company saw a significant surge across all key metrics. Revenue soared by 160% to $10M, while units sold doubled to 34K. The AOV also rose from $230 to $300. MacBooks led the growth, with sales skyrocketing by 383%, making them a major contributor to the revenue spike. March recorded the highest percentage increase in sales, rising by 50%, coinciding with the onset of COVID-19 lockdowns.
@@ -72,7 +72,7 @@ Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, wit
 
 
 # Sales Trends
-![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/990a627492be5e6a8befdc41491ad8f417dd8427/sales_graph_3.png)
+![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/912f6dd272da51bdd74be7e148cb1f726614e397/Executive_summary.png)
 <table>
   <tr>
     <td style="background-color: #222; color: white; width: 50%; vertical-align: top;">
@@ -162,7 +162,9 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
 
 
 ## Refunds
-![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/0ffbddf33d55fbaec22057b26aa197b82d60fe02/brand_refunds_v3.png)
+<p align="center">
+  <img src="https://github.com/EliasPotagas/ShopNest/blob/0ffbddf33d55fbaec22057b26aa197b82d60fe02/brand_refunds_v3.png" alt="Image Alt">
+</p>
   
   - The overall refund rate stood at 5.04%, with 5,379 refunds issued out of 108K orders, totaling $1.7M in refund costs.
   - Apple products accounted for the majority of refunds (3,111), with a 5.91% return rate, totaling $1.2M in refund costs, representing 70% of all refunds issued.
