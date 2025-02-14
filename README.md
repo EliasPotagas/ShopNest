@@ -166,10 +166,11 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
   <img src="https://github.com/EliasPotagas/ShopNest/blob/0ffbddf33d55fbaec22057b26aa197b82d60fe02/brand_refunds_v3.png" alt="Image Alt">
 </p>
   
-  - The overall refund rate stood at 5.04%, with 5,379 refunds issued out of 108K orders, totaling $1.7M in refund costs.
-  - Apple products accounted for the majority of refunds (3,111), with a 5.91% return rate, totaling $1.2M in refund costs, representing 70% of all refunds issued.
-  - Apple AirPods accounted for 83% of all Apple product refunds, making them the primary driver of returns. Meanwhile, MacBook laptops had the highest return rate among Apple products at 11.6%.
-  - Lenovo’s Thinkpad Laptop had the highest overall refund rate at 12%, exceeding all other product categories.
+- The overall **refund rate** stood at **5.04%**, with **5,379 refunds** issued out of **108K orders**, totaling **$1.7M** in refund costs.
+- **Apple products** accounted for the majority of refunds (**3,111**), with a **5.91% return rate**, totaling **$1.2M** in refund costs, representing **70%** of all refunds issued.
+- **Apple AirPods** accounted for **83%** of all Apple product refunds, making them the **primary driver of returns**. Meanwhile, **MacBook laptops** had the **highest return rate** among Apple products at **11.6%**.
+- **Lenovo’s Thinkpad Laptop** had the **highest overall refund rate** at **12%**, exceeding all other product categories.
+
 ### Recommendation: 
   - Conduct a quality assurance review and consumer feedback analysis to identify the key reasons behind the high return rates for the ThinkPad and Apple laptops and implement necessary improvements to reduce refunds.
 
