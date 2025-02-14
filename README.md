@@ -59,7 +59,7 @@ The interactive dashboard can be found in Tableau Public here.
 # Executive Summary 
 
 
-![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/990a627492be5e6a8befdc41491ad8f417dd8427/sales_graph_3.png)
+![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/f767634b3e3bfc4d27f71cb6accc19b0d172af14/sales_overview_2.png)
 Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, with 108K total orders. The company’s AOV was $260, and the overall refund rate stood at 5.04%.
 
   - Covid Spike: In 2020, the company saw a significant surge across all key metrics. Revenue soared by 160% to $10M, while units sold doubled to 34K. The AOV also rose from $230 to $300. MacBooks led the growth, with sales skyrocketing by 383%, making them a major contributor to the revenue spike. March recorded the highest percentage increase in sales, rising by 50%, coinciding with the onset of COVID-19 lockdowns.
@@ -171,6 +171,6 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
   - Apple AirPods accounted for 83% of all Apple product refunds, making them the primary driver of returns. Meanwhile, MacBook laptops had the highest return rate among Apple products at 11.6%.
   - Lenovo’s Thinkpad Laptop had the highest overall refund rate at 12%, exceeding all other product categories.
 ### Recommendation: 
-  - Conduct a quality assurance review and consumer feedback analysis to identify the key reasons behind the high return rates, particularly for ThinkPad and Apple laptops, and implement necessary improvements to reduce refunds.
+  - Conduct a quality assurance review and consumer feedback analysis to identify the key reasons behind the high return rates for the ThinkPad and Apple laptops and implement necessary improvements to reduce refunds.
 
 # Insights and Recommendations
