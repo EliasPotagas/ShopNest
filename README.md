@@ -86,7 +86,7 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
   </tr>
 </table>
 
-
+## Seasonal Performance TODO
 
 # Loyalty Program
   ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/38e5d3d380b3b7b0be9e736b037d3c547ce39b47/loyalty_dashboard.png)
