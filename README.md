@@ -177,6 +177,11 @@ ShopNest serves customers in **194 countries** across four global regions:
 - A **quality assurance review** with the **product team** is necessary to **analyze factors contributing to the 12% laptop refund rate**. This review should **assess potential issues** such as **product defects, customer dissatisfaction, or misleading expectations**.  
 - A **meeting with the data engineering team** is necessary to **address the lack of refund tracking beyond August 2021** and determine the **root cause of the data gap**.  
 
+# Dashboard 
+
+The interactive dashboard can be found in Tableau Public here. 
+
+![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/ab076e8e5909a1c6690d1c3ec7d984469bc62820/Dashboard_v2.png)
 
 
 # Entity Relation Diagram
@@ -185,11 +190,6 @@ ShopNet's database consists of **108,127 records** and **four tables**: orders, 
 
   ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/dfbf9ebf2af0840c04e10c4037eb0cfaa127f4a3/ERD.png)
 
-# Dashboard 
-
-The interactive dashboard can be found in Tableau Public here. 
-
-![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/ab076e8e5909a1c6690d1c3ec7d984469bc62820/Dashboard_v2.png)
 
 
 
