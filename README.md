@@ -152,7 +152,8 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
 
 - **Laptop Demand & High AOV:** Laptops accounted for **33% of total sales ($9.5M)**. Despite having the **lowest order volume**, they had the **highest AOV**, averaging **$1.3K per order**.
 - **Least Popular Product:** Bose Headphones had the weakest performance, recording just **3K units sold** and **27 total orders**, making them the **least desirable product** in our catalog.
-- **Apple iPhone’s Underperformance:** Despite high demand for Apple products, the iPhone was the **worst-performing product**, with only **288 units sold**, generating **$213K in sales**.  
+- **Apple iPhone’s Underperformance:** Despite high demand for Apple products, the iPhone was the **worst-performing product**, with only **288 units sold**, generating **$213K in sales**.
+- TODO: change this to Laptop refunds point.
 
 
 ### Recommendations:
