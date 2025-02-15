@@ -153,7 +153,6 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
 - **Laptop Demand & High AOV:** Laptops accounted for **33% of total sales ($9.5M)**. Despite having the **lowest order volume**, they had the **highest AOV**, averaging **$1.3K per order**.
 - **Least Popular Product:** Bose Headphones had the weakest performance, recording just **3K units sold** and **27 total orders**, making them the **least desirable product** in our catalog.
 - **Apple iPhone’s Underperformance:** Despite high demand for Apple products, the iPhone was the **worst-performing product**, with only **288 units sold**, generating **$213K in sales**.
-- TODO: change this to Laptop refunds point.
 
 
 ### Recommendations:
@@ -173,6 +172,8 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
 - **Apple products** accounted for the majority of refunds (**3,111**), with a **5.91% return rate**, totaling **$1.2M** in refund costs, representing **70%** of all refunds issued.
 - **Apple AirPods** accounted for **83%** of all Apple product refunds, making them the **primary driver of returns**. Meanwhile, **MacBook laptops** had the **highest return rate** among Apple products at **11.6%**.
 - **Lenovo’s Thinkpad Laptop** had the **highest overall refund rate** at **12%**, exceeding all other product categories.
+-  TODO: change this to Laptop refunds point.
+
 
 ### Recommendation: 
   - Conduct a quality assurance review and consumer feedback analysis to identify the key reasons behind the high return rates for the ThinkPad and Apple laptops and implement necessary improvements to reduce refunds.
