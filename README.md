@@ -3,13 +3,9 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
 
 <details>
   <summary>Goals</summary>
+  - ShopNest has gathered extensive data on key business metrics, including sales performance, average order value (AOV), order trends, refunds, loyalty program engagement, regional sales, and marketing effectiveness. However, this data remains largely unrefined, limiting its potential to drive strategic decision-making and business growth. By analyzing these metrics, ShopNest can gain a deeper understanding of customer behavior, operational efficiencies, and market trends.
 
-  - The primary objective is to conduct a comprehensive analysis of key business metrics, including sales, average order value (AOV), order trends, and refund trends, spanning the years 2019 to 2022.
-  - Additionally, the analysis will focus on evaluating the performance of the loyalty program, regional performance, marketing effectiveness, and platform performance over the specified period.
-  - The project involves several key steps:
-      - Data cleaning to ensure accuracy and consistency across the various datasets.
-      - Organizing and presenting the cleaned data in an interactive dashboard for effective visualization and analysis.
-      - A thorough review of the findings and identification of actionable insights to inform business strategy and optimize performance moving forward.
+  - The goals are to focuse on cleaning, organizing, and visualizing the data to uncover meaningful insights that support teams across finance, sales, product, and marketing. By leveraging interactive dashboards and data-driven analysis, the goal is to optimize business strategies, enhance customer engagement, and improve overall performance, ensuring continued growth in the competitive e-commerce landscape.
 </details>
 <details>
   <summary>Stakeholder Questions</summary>
@@ -89,12 +85,12 @@ Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, wit
 
 # Loyalty Program
   ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/38e5d3d380b3b7b0be9e736b037d3c547ce39b47/loyalty_dashboard.png)
-The program, launched in 2019 to incentivize more frequent purchases through points-based rewards and discount offers and is now undergoing a four-year performance evaluation to determine whether it should be continued.
-  - Sales Growth: The Loyalty Program was initially contributing a modest 11% of total sales, while non-members accounted for 89%. However, by 2021, members' contribution to total revenue had risen significantly to 50%, a level that was sustained in 2022.
-  - AOV Growth: The AOV for loyalty members has been steadily rising highlighting the effectiveness of our loyalty program perks driving higher spending among members, whereas non-members appear less inclined to spend due to the absence of these rewards and benefits.
-  - Revenue Contribution: Between Q4 2020 and Q3 2022, loyalty members placed most orders, with a 10% higher order rate and rising AOV. While non-members generated $17 million in sales (2019–2022) versus $10 million from members, loyalty revenue is on track to surpass non-members, underscoring the program’s growing impact.
-  - Insight: Given the positive trajectory in order volume, AOV, and overall sales among loyalty members, it is recommended to increase promotion and marketing efforts for the Loyalty Program to attract more users to boost overall AOV.
+The program, **launched in 2019**, was designed to incentivize **more frequent purchases** through **points-based rewards** and **discount offers**. It is now undergoing a **four-year performance evaluation** to determine whether it should be continued.
 
+- **Sales Growth**: The **Loyalty Program** was initially contributing a modest **11% of total sales**, while **non-members** accounted for **89%**. However, by **2021**, members' contribution to total revenue had risen significantly to **50%**, a level that was sustained in **2022**.  
+- **AOV Growth**: The **Average Order Value (AOV)** for **loyalty members** has been steadily rising, highlighting the effectiveness of our **loyalty program perks** in driving **higher spending** among members, whereas **non-members** appear **less inclined to spend** due to the absence of these **rewards and benefits**.  
+- **Revenue Contribution**: Between **Q4 2020 and Q3 2022**, **loyalty members** placed **most orders**, with a **10% higher order rate** and **rising AOV**. While **non-members** generated **$17 million** in sales (**2019–2022**) versus **$10 million** from **members**, **loyalty revenue is on track to surpass non-members**, underscoring the **program’s growing impact**.  
+- **Insight**: Given the **positive trajectory** in **order volume, AOV, and overall sales** among **loyalty members**, it is recommended to **increase promotion and marketing efforts** for the **Loyalty Program** to attract more users and **boost overall AOV**.  
 
 
 
@@ -102,11 +98,14 @@ The program, launched in 2019 to incentivize more frequent purchases through poi
 
 # Geographical Trends
   ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/a1f2bc748ed794181916e74a1ff5cde28e89a752/regiona_dashboard.png)
-ShopNest serves customers in 194 countries across four global regions: North America (NA), Europe, Middle East & Africa (EMEA), Asia-Pacific (APAC), and Latin America (LATAM).
-  - Top Market Contributor: The top 10 best-performing countries accounted for 80% of total revenue and 71% of total orders, with the United States leading at 47% of total sales ($13.3M) and an average order value (AOV) of $262. The highest sales contributor in the U.S. was the Sony gaming monitor contributing 35% of countries sales.
-  - Highest AOV: Japan recorded the highest AOV at $395, driven by strong laptop sales, which contributed 50% of the region’s total revenue. This indicates a high consumer preference for premium tech products, presenting an opportunity to expand laptop promotions for Loyalty members to utilize.
-  - Loyalty Program Impact: Across all regions, Loyalty Program members contributed 40% of sales, reinforcing its global effectiveness and continued growth as its benefits gain traction.
+ShopNest serves customers in **194 countries** across four global regions:  
+**North America (NA), Europe, Middle East & Africa (EMEA), Asia-Pacific (APAC),** and **Latin America (LATAM)**.
 
+- **Top Market Contributor**: The **top 10 best-performing countries** accounted for **80% of total revenue** and **71% of total orders**, with the **United States** leading at **47% of total sales ($13.3M)** and an **average order value (AOV) of $262**. The highest sales contributor in the **U.S.** was the **Sony gaming monitor**, contributing **35% of the country’s sales**.  
+
+- **Highest AOV**: **Japan** recorded the **highest AOV at $395**, driven by **strong laptop sales**, which contributed **50% of the region’s total revenue**. This indicates a **high consumer preference** for **premium tech products**, presenting an opportunity to **expand laptop promotions** for **Loyalty members** to utilize.  
+
+- **Loyalty Program Impact**: Across **all regions**, **Loyalty Program members** contributed **40% of sales**, reinforcing its **global effectiveness** and **continued growth** as its **benefits gain traction**.  
 
 
 # Brand Trends
@@ -131,9 +130,11 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
 
 
 ### Recommendations:
-- Samsung Products: While demand is high, introducing product bundles with higher AOV items could drive increased revenue and profitability by encouraging larger purchases.
-- Apple iPhone: With only 288 orders but a high AOV of $740, targeted Loyalty Program promotions with exclusive discounts for existing Apple consumers could boost sales, strengthen Loyalty Program engagement, and drive a notable increase in total revenue.
-- Removing the Bose Headphones from the website due to their poor performance and lack of resonance with customers would create space for a more appealing and higher-performing product.
+- **Samsung Products**: While **demand is high**, introducing **product bundles** with **higher AOV items** could drive **increased revenue and profitability** by encouraging **larger purchases**.  
+
+- **Apple iPhone**: With only **288 orders** but a **high AOV of $740**, targeted **Loyalty Program promotions** with **exclusive discounts** for existing **Apple consumers** could **boost sales**, strengthen **Loyalty Program engagement**, and drive a **notable increase in total revenue**.  
+
+- **Removing the Bose Headphones**: Due to their **poor performance** and **lack of resonance with customers**, removing them from the website would create space for a **more appealing and higher-performing product**.  
 
 
 
@@ -153,29 +154,29 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
 
 # Insights and Recommendations
 
-### Loyalty Program
-- The Loyalty Program should continue, as its performance has been steadily improving each year, successfully driving members to purchase higher-value products. Its increasing effectiveness highlights the importance of further promotion.
-- The program has been able to surpass and consistently outperforme non-members in AOV, sales, and orders. The exclusive perks and benefits offered incentivize members to spend more, reinforcing the value of the program.
-- To maximize its success, the program should be promoted to high-AOV returning customers who are not yet members.
-- Introducing a refer-a-friend program can encourage existing members to bring in new customers, further boosting participation and sales.
+### **Loyalty Program**
+- The **Loyalty Program** should continue, as its **performance has been steadily improving each year**, successfully driving members to **purchase higher-value products**. Its increasing **effectiveness** highlights the importance of **further promotion**.  
+- The program has been able to **surpass and consistently outperform non-members** in **AOV, sales, and orders**. The **exclusive perks and benefits** offered incentivize members to **spend more**, reinforcing the **value of the program**.  
+- To **maximize its success**, the program should be **promoted to high-AOV returning customers** who are not yet members.  
+- **A meeting** with the marketing team to introduce a **refer-a-friend program**, aimed at encouraging existing members to **bring in new users**, ultimately driving **engagement and sales growth**.
 
-### Product Changes
-- The Bose Sound Headphones should be removed from our product offerings as they have been the worst-performing product consistently over the past four years, occupying valuable space that could be better utilized for other products.
-- A review with the product team should be conducted to identify a better-performing product to replace the headphones with to optimize sales and use of space on the website.
+### **Product Changes**
+- The **Bose Sound Headphones** should be **removed** from our product offerings as they have been the **worst-performing product** consistently over the past **four years**, occupying **valuable space** that could be better utilized for **higher-performing products**.  
+- A **review with the product team** should be conducted to **identify a better-performing product** to replace the headphones with, **optimizing sales** and **use of space on the website**.  
 
-### Boost Sales
-- To drive overall sales, we can provide exclusive iPhone discounts to high-AOV loyalty program members, incentivizing purchases, increasing units sold, and enhancing member engagement with the program.
-- In markets like Japan, where demand for Apple and premium products is high, implementing region-specific promotions or discounts will leverage consumer preferences and drive sales.
+### **Boost Sales**
+- To **drive overall sales**, we can provide **exclusive iPhone discounts** to **high-AOV loyalty program members**, **incentivizing purchases**, **increasing units sold**, and **enhancing member engagement** with the program.  
+- In **markets like Japan**, where demand for **Apple and premium products** is high, implementing **region-specific promotions or discounts** will leverage **consumer preferences** and **drive sales**.  
 
-### Refund Rates
-- A quality assurance review with the product team is necessary to analyze the factors contributing to the 12% laptop refund rate. This review should assess potential issues such as product defects, customer dissatisfaction, or misleading expectations.
-- A meeting with the data engineering team is necessary to address the lack of refund tracking beyond August 2021 and determine the root cause of the data gap. 
+### **Refund Rates**
+- A **quality assurance review** with the **product team** is necessary to **analyze factors contributing to the 12% laptop refund rate**. This review should **assess potential issues** such as **product defects, customer dissatisfaction, or misleading expectations**.  
+- A **meeting with the data engineering team** is necessary to **address the lack of refund tracking beyond August 2021** and determine the **root cause of the data gap**.  
 
 
 
 # Entity Relation Diagram
 
-ShopNets database consists of 108,127 records and four tables: orders, customers, geo_lookup, and order_status.
+ShopNet's database consists of **108,127 records** and **four tables**: orders, customers, geo_lookup, and order_status.
 
   ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/dfbf9ebf2af0840c04e10c4037eb0cfaa127f4a3/ERD.png)
 
