@@ -15,46 +15,21 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
   <summary>Stakeholder Questions</summary>
 
   - **What were the overall trends in sales during this time?**
-    - What were the monthly and yearly sales numbers for 2019 and 2022? How about AOV and total sales in dollars?
-    - How did these trends vary by product and geography?
-    - Which months and products performed the best and worst? Is there any seasonality?
 
   - **Should we continue using the loyalty program?**
-    - What was the monthly number of sales and AOV for customers in the loyalty program versus those not in the program?
-    - What is the sales split by region for customers in the loyalty program compared to those not in the program?
-    - How do these trends compare between recent months and previous months?
 
   - **What was our refund rate?**
-    - Which products/brands had the highest refund rates?
-    - Which products/brands had the highest refunds?
-    - How much did we spend on refunds?
 
-  - **What was the most popular product in each region?**
-    - What sales portion did each product have for the region?
+  - **How well did our products perform?**
 
-  - **How long does it take for new users to make their first purchase per year?**
-    - Is there a difference with Loyal vs Non Loyal Users?
 </details>
 
 <details>
   <summary>Tools Used</summary>
-  
   - SQL: Script can be found here.
   - Excel: Workbook can be found here.
   - Tableau: Dashboard can be found here.
 </details>
-
-# Entity Relation Diagram
-
-ShopNets database consists of 108,127 records and four tables: orders, customers, geo_lookup, and order_status.
-
-  ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/dfbf9ebf2af0840c04e10c4037eb0cfaa127f4a3/ERD.png)
-
-# Dashboard 
-
-The interactive dashboard can be found in Tableau Public here. 
-
-![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/ab076e8e5909a1c6690d1c3ec7d984469bc62820/Dashboard_v2.png)
 
 # Executive Summary 
 
@@ -86,7 +61,7 @@ Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, wit
       </ul>
       <h2 style="margin: 10px 0 0 0; padding: 0; display: inline-block;">AOV</h2>
       <ul>
-        <li><b>Entire Period:</b> AOV averaged <b>$253</b> with <b>0.01% growth rate</b>.</li>
+        <li><b>Entire Period:</b> AOV averaged <b>$253</b> with <b>no change for four years in AOV</b>.</li>
         <li><b>Peak & Drop:</b> AOV hit <b>$321 in October 2020</b> but declined to <b>$217 by October 2022</b>.</li>
         <div style="display: none;"> &nbsp;</div>
         <div style="display: none;"> &nbsp;</div>
@@ -102,7 +77,7 @@ Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, wit
       </ul>
       <h2 style="margin: 10px 0 0 0; padding: 0; display: inline-block;">Refunds</h2>
       <ul>
-        <li><b>Entire Period:</b> Average <b>112 refunds per month</b>, growing <b>0.76%</b>.</li>
+        <li><b>Entire Period:</b> Average <b>112 refunds per month</b>, with a growth rate of <b>0.76%</b>.</li>
         <li><b>Pandemic Spike:</b> Peaked at <b>369 in December 2020</b>.</li>
         <li><b>Data Gap:</b> Tracking refund issues occurred after <b>August 2021</b>.</li>
       </ul>
@@ -193,12 +168,22 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
 - In markets like Japan, where demand for Apple and premium products is high, implementing region-specific promotions or discounts will leverage consumer preferences and drive sales.
 
 ### Refund Rates
-- A quality assurance review with the product team is necessary to analyze the factors contributing to the 12% laptop refund rate. This review should assess potential issues such as product defects, customer dissatisfaction, or misleading expectations. 
+- A quality assurance review with the product team is necessary to analyze the factors contributing to the 12% laptop refund rate. This review should assess potential issues such as product defects, customer dissatisfaction, or misleading expectations.
+- A meeting with the data engineering team is necessary to address the lack of refund tracking beyond August 2021 and determine the root cause of the data gap. 
 
 
 
+# Entity Relation Diagram
 
+ShopNets database consists of 108,127 records and four tables: orders, customers, geo_lookup, and order_status.
 
+  ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/dfbf9ebf2af0840c04e10c4037eb0cfaa127f4a3/ERD.png)
+
+# Dashboard 
+
+The interactive dashboard can be found in Tableau Public here. 
+
+![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/ab076e8e5909a1c6690d1c3ec7d984469bc62820/Dashboard_v2.png)
 
 
 
