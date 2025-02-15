@@ -177,3 +177,29 @@ ShopNest serves customers in 194 countries across four global regions: North Ame
   - Conduct a quality assurance and consumer feedback review to identify the key reasons behind the high return rates for the laptops and implement necessary improvements to reduce refunds.
 
 # Insights and Recommendations
+
+### Loyalty Program
+- The Loyalty Program should continue, as its performance has been steadily improving each year, successfully driving members to purchase higher-value products. Its increasing effectiveness highlights the importance of further promotion.
+- The program has been able to surpass and consistently outperforme non-members in AOV, sales, and orders. The exclusive perks and benefits offered incentivize members to spend more, reinforcing the value of the program.
+- To maximize its success, the program should be promoted to high-AOV returning customers who are not yet members.
+- Introducing a refer-a-friend program can encourage existing members to bring in new customers, further boosting participation and sales.
+
+### Product Changes
+- The Bose Sound Headphones should be removed from our product offerings as they have been the worst-performing product consistently over the past four years, occupying valuable space that could be better utilized for other products.
+- A review with the product team should be conducted to identify a better-performing product to replace the headphones with to optimize sales and use of space on the website.
+
+### Boost Sales
+- To drive overall sales, we can provide exclusive iPhone discounts to high-AOV loyalty program members, incentivizing purchases, increasing units sold, and enhancing member engagement with the program.
+- In markets like Japan, where demand for Apple and premium products is high, implementing region-specific promotions or discounts will leverage consumer preferences and drive sales.
+
+### Refund Rates
+- A quality assurance review with the product team is necessary to analyze the factors contributing to the 12% laptop refund rate. This review should assess potential issues such as product defects, customer dissatisfaction, or misleading expectations. 
+
+
+
+
+
+
+
+
+
