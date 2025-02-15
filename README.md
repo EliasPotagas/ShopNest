@@ -4,9 +4,9 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
 <details>
   <summary>Goals</summary>
 
-  - **ShopNest** has gathered extensive data on key business metrics, including **sales performance, average order value (AOV), order trends, refunds, loyalty program engagement, regional sales, and marketing effectiveness**. However, this data remains largely **unrefined**, limiting its potential to drive **strategic decision-making and business growth**. By analyzing these metrics, **ShopNest** can gain a deeper understanding of **customer behavior, operational efficiencies, and market trends**.
+   **ShopNest** has gathered extensive data on key business metrics, including **sales performance, average order value (AOV), order trends, refunds, loyalty program engagement, regional sales, and marketing effectiveness**. However, this data remains largely **unrefined**, limiting its potential to drive **strategic decision-making and business growth**. By analyzing these metrics, **ShopNest** can gain a deeper understanding of **customer behavior, operational efficiencies, and market trends**.
 
-  - The goals are to **focus on cleaning, organizing, and visualizing** the data to uncover meaningful insights that support teams across **finance, sales, product, and marketing**. By leveraging **interactive dashboards and data-driven analysis**, the goal is to **optimize business strategies, enhance customer engagement, and improve overall performance**, ensuring **continued growth in the competitive e-commerce landscape**.
+   The goals are to **focus on cleaning, organizing, and visualizing** the data to uncover meaningful insights that support teams across **finance, sales, product, and marketing**. By leveraging **interactive dashboards and data-driven analysis**, the goal is to **optimize business strategies, enhance customer engagement, and improve overall performance**, ensuring **continued growth in the competitive e-commerce landscape**.
 </details>
 
 <details>
