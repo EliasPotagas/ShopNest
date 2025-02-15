@@ -3,10 +3,12 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
 
 <details>
   <summary>Goals</summary>
-  - ShopNest has gathered extensive data on key business metrics, including sales performance, average order value (AOV), order trends, refunds, loyalty program engagement, regional sales, and marketing effectiveness. However, this data remains largely unrefined, limiting its potential to drive strategic decision-making and business growth. By analyzing these metrics, ShopNest can gain a deeper understanding of customer behavior, operational efficiencies, and market trends.
 
-  - The goals are to focuse on cleaning, organizing, and visualizing the data to uncover meaningful insights that support teams across finance, sales, product, and marketing. By leveraging interactive dashboards and data-driven analysis, the goal is to optimize business strategies, enhance customer engagement, and improve overall performance, ensuring continued growth in the competitive e-commerce landscape.
+  - **ShopNest** has gathered extensive data on key business metrics, including **sales performance, average order value (AOV), order trends, refunds, loyalty program engagement, regional sales, and marketing effectiveness**. However, this data remains largely **unrefined**, limiting its potential to drive **strategic decision-making and business growth**. By analyzing these metrics, **ShopNest** can gain a deeper understanding of **customer behavior, operational efficiencies, and market trends**.
+
+  - The goals are to **focus on cleaning, organizing, and visualizing** the data to uncover meaningful insights that support teams across **finance, sales, product, and marketing**. By leveraging **interactive dashboards and data-driven analysis**, the goal is to **optimize business strategies, enhance customer engagement, and improve overall performance**, ensuring **continued growth in the competitive e-commerce landscape**.
 </details>
+
 <details>
   <summary>Stakeholder Questions</summary>
 
@@ -22,9 +24,11 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
 
 <details>
   <summary>Tools Used</summary>
-  - SQL: Script can be found here.
-  - Excel: Workbook can be found here.
-  - Tableau: Dashboard can be found here.
+  
+  - **SQL**: Script can be found here.
+  - **Excel**: Workbook can be found here.
+  - **Tableau**: Dashboard can be found here.
+    
 </details>
 
 # Executive Summary 
@@ -33,15 +37,16 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
   <img src="https://github.com/EliasPotagas/ShopNest/blob/227c8b85f038addb5bf805477b8c61dd5085b62d/Executive_summary_2.png" alt="Image Alt">
 </p>
 
-Total overall sales from January 1st, 2019 to December 31st, 2022 were $28M, with 108K total orders. The company’s AOV was $260, and the overall refund rate stood at 5.04%.
+**Total overall sales** from **January 1st, 2019 to December 31st, 2022** were **$28M**, with **108K total orders**. The company’s **AOV** was **$260**, and the overall **refund rate** stood at **5.04%**.
 
-  - Covid Spike: In 2020, the company saw a significant surge across all key metrics. Revenue soared by 160% to $10M, while units sold doubled to 34K. The AOV also rose from $230 to $300. MacBooks led the growth, with sales skyrocketing by 383%, making them a major contributor to the revenue spike. March recorded the highest percentage increase in sales, rising by 50%, coinciding with the onset of COVID-19 lockdowns.
+- **Covid Spike**: In **2020**, the company saw a significant surge across all key metrics. **Revenue** soared by **160%** to **$10M**, while **units sold** doubled to **34K**. The **AOV** also rose from **$230** to **$300**. **MacBooks** led the growth, with sales skyrocketing by **383%**, making them a major contributor to the revenue spike. **March** recorded the highest percentage increase in sales, rising by **50%**, coinciding with the onset of **COVID-19 lockdowns**.
 
-  - Sales Decline: December 2020 marked the peak across all key metrics, but since then, the company has struggled to sustain those levels, experiencing a downturn. This declne can be attributed to the implementation of return-to-office policies and reduced consumer need for electronics, as many had already made significant purchases the previous year. Sales declined by 10% in 2021 and further plummeted by 46% in 2022, with other metrics following a similar downward trajectory.
-  
-  - Program Performance: The Loyalty Program has shown strong performance and continues to demonstrate promising growth. Since its inception, it has expanded significantly, increasing the share of total sales from 11% in 2019 to 50% by 2021—a level maintained in 2022. Furthermore, the AOV for loyalty members has been gradually increasing, while non-member AOV has declined. To capitalize on this success, the program should continue and be promoted more actively to users.
+- **Sales Decline**: **December 2020** marked the peak across all key metrics, but since then, the company has struggled to sustain those levels, experiencing a downturn. This decline can be attributed to the implementation of **return-to-office policies** and reduced consumer need for electronics, as many had already made significant purchases the previous year. **Sales declined by 10% in 2021** and further plummeted by **46% in 2022**, with other metrics following a similar downward trajectory.
 
-  - Product Performance: Sony’s gaming monitor was the top performer, contributing 35% of total sales, while Apple products led as the top brand, accounting for 50% of sales. The overall refund rate stands at 5.04%, with Apple products making up 70% of total refunds, amounting to $1.2M in refund costs. Additionally, Laptops had the highest refund rate at 12%, highlighting a need for quality assurance reviews and product assessments to reduce return rates.
+- **Program Performance**: The **Loyalty Program** has shown strong performance and continues to demonstrate promising growth. Since its inception, it has expanded significantly, increasing the **share of total sales** from **11% in 2019** to **50% by 2021**—a level maintained in **2022**. Furthermore, the **AOV for loyalty members** has been gradually increasing, while **non-member AOV** has declined. To capitalize on this success, the program should continue and be promoted more actively to users.
+
+- **Product Performance**: **Sony’s gaming monitor** was the **top performer**, contributing **35% of total sales**, while **Apple products** led as the **top brand**, accounting for **50% of sales**. The overall **refund rate** stands at **5.04%**, with **Apple products** making up **70% of total refunds**, amounting to **$1.2M in refund costs**. Additionally, **Laptops** had the **highest refund rate at 12%**, highlighting a need for **quality assurance reviews** and **product assessments** to reduce return rates.
+
 
 
 # Sales Trends
