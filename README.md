@@ -73,7 +73,7 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
       <h2 style="margin: 0; padding: 0; display: inline-block;">Orders</h2>
       <ul>
         <li><b>Entire Period:</b> Average <b>2.2K orders per month</b>, with a <b>0.72% growth rate</b>.</li>
-        <li><b>Pandemic Peak:</b> Orders peaked at <b>4K in December 2020</b>.</li>
+        <li><b>Pandemic Peak:</b> Orders peaked at <b>4K in December 2020 growing 100% from last year</b>.</li>
         <li><b>Post-Pandemic Drop:</b> Fell to <b>825 in October 2022</b>, a <b>50% decline</b> from 2019.</li>
       </ul>
       <h2 style="margin: 10px 0 0 0; padding: 0; display: inline-block;">Refunds</h2>
