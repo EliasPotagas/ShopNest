@@ -118,7 +118,7 @@ ShopNest serves customers in **194 countries** across four global regions: **Nor
 
 - **Samsung’s Low Revenue Contribution:** Despite making up **30% of total orders**, Samsung products contributed only **3% of total sales** due to a significantly lower **AOV of $28**.  
 
-- **Premium Products:** The strong sales performance of **Apple and Sony** highlights consumer demand and interest in **premium, high-value products**.  
+- **Premium Products:** The strong sales performance of **Apple and Sony** highlights consumer demand and interest in **premium, high-value products with long-lasting quality and use**.  
 
 
 ## Products
