@@ -108,7 +108,7 @@ ShopNest serves customers in **194 countries** across four global regions:
 
 - **Top Market Contributor**: The **top 10 best-performing countries** accounted for **80% of total revenue** and **71% of total orders**, with the **United States** leading at **47% of total sales ($13.3M)** and an **average order value (AOV) of $262**. The highest sales contributor in the **U.S.** was the **Sony gaming monitor**, contributing **35% of the country’s sales**.  
 
-- **Highest AOV**: **Japan** recorded the **highest AOV at $395**, driven by **strong laptop sales**, which contributed **50% of the region’s total revenue**. This indicates a **high consumer preference** for **premium tech products**, presenting an opportunity to **expand laptop promotions** for **Loyalty members** to utilize.  
+- **Highest AOV**: **Japan** recorded the **highest AOV at $395**, driven by **strong laptop sales**, which contributed **50% of APAC's total revenue**. This indicates a **high consumer preference** for **premium tech products**, presenting an opportunity to **expand laptop promotions** for **Loyalty members** to utilize.  
 
 - **Loyalty Program Impact**: Across **all regions**, **Loyalty Program members** contributed **40% of sales**, reinforcing its **global effectiveness** and **continued growth** as its **benefits gain traction**.  
 
