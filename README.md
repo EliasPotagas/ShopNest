@@ -103,8 +103,7 @@ The program, **launched in 2019**, was designed to incentivize **more frequent p
 
 # Geographical Trends
   ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/a1f2bc748ed794181916e74a1ff5cde28e89a752/regiona_dashboard.png)
-ShopNest serves customers in **194 countries** across four global regions:  
-**North America (NA), Europe, Middle East & Africa (EMEA), Asia-Pacific (APAC),** and **Latin America (LATAM)**.
+ShopNest serves customers in **194 countries** across four global regions: **North America (NA), Europe, Middle East & Africa (EMEA), Asia-Pacific (APAC),** and **Latin America (LATAM)**.
 
 - **Top Market Contributor**: The **top 10 best-performing countries** accounted for **80% of total revenue** and **71% of total orders**, with the **United States** leading at **47% of total sales ($13.3M)** and an **average order value (AOV) of $262**. The highest sales contributor in the **U.S.** was the **Sony gaming monitor**, contributing **35% of the country’s sales**.  
 
