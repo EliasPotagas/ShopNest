@@ -65,8 +65,6 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
         <li><b>Entire Period:</b> AOV averaged <b>$253</b> with <b>0.0% growth rate</b>.</li>
         <li><b>Peak & Drop:</b> AOV hit <b>$321 in October 2020</b> but declined to <b>$217 by October 2022 with a -1.62% monthly growth rate</b>.</li>
         <li><b>AOV Increase:</b> <strong>MacBook laptop</strong>, <strong>Apple AirPods</strong>, and <strong>Sony's gaming monitor</strong> were the primary drivers of the high <strong>AOV</strong>.</li>
-        <div style="display: none;"> &nbsp;</div>
-        <div style="display: none;"> &nbsp;</div>
       </ul>
     </td>
     <td style="background-color: #222; color: white; width: 50%; vertical-align: top;">
