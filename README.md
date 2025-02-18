@@ -57,13 +57,13 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
       <h2 style="margin: 0; padding: 0; display: inline-block;">Sales</h2>
       <ul>
         <li><b>Entire Period:</b> Average monthly revenue of <b>$585K</b>, with a <b>0.6% growth rate</b>.</li>
-        <li><b>Pandemic Surge:</b> Sales jumped <b>160%</b> to <b>$10M</b>, peaking at <b>$1.25M in December</b>.</li>
-        <li><b>Post-Pandemic:</b> Sales fell <b>10% in 2021</b> and <b>46% in 2022</b>, dropping to <b>$178K</b> in October marking a new company low.</li>
+        <li><b>Pandemic Surge:</b> Sales jumped <b>160%</b> to <b>$10M</b>, peaking at <b>$1.25M in December 2020</b>.</li>
+        <li><b>Post-Pandemic:</b> Sales fell <b>10% in 2021</b> and <b>46% in 2022</b>, dropping to <b>$178K</b> in October marking a new company low in revenue.</li>
       </ul>
       <h2 style="margin: 10px 0 0 0; padding: 0; display: inline-block;">AOV</h2>
       <ul>
         <li><b>Entire Period:</b> AOV averaged <b>$253</b> with <b>no change for four years in AOV</b>.</li>
-        <li><b>Peak & Drop:</b> AOV hit <b>$321 in October 2020</b> but declined to <b>$217 by October 2022</b>.</li>
+        <li><b>Peak & Drop:</b> AOV hit <b>$321 in October 2020</b> but declined to <b>$217 by October 2022 with a -1.62% monthly growth rate</b>.</li>
         <div style="display: none;"> &nbsp;</div>
         <div style="display: none;"> &nbsp;</div>
         <div style="display: none;"> &nbsp;</div>
