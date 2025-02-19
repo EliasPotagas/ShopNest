@@ -90,7 +90,7 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
 ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/84e39a1d6507966e211737963f3a3c9c133feb67/Pictures/seasonal_dashboard_2.png)
 
 # Loyalty Program
-  ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/38e5d3d380b3b7b0be9e736b037d3c547ce39b47/loyalty_dashboard.png)
+  ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/bb2a8f6ebadb942e9c12ac36372265e2c456722f/Pictures/loyalty_dashboard_4.png)
 The program, **launched in 2019**, was designed to incentivize **more frequent purchases** through **points-based rewards** and **discount offers**. It is now undergoing a **four-year performance evaluation** to determine whether it should be continued.
 
 - **Sales Growth**: The **Loyalty Program** was initially contributing a modest **11% of total sales**, while **non-members** accounted for **89%**. However, by **2021**, members' contribution to total revenue had risen significantly to **50%**, a level that was sustained in **2022**.  
