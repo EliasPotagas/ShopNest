@@ -34,7 +34,7 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
 # Executive Summary TODO ADD DOLLAR SIGNS FOR Y-AXIS
 
 <p align="center">
-  <img src="https://github.com/EliasPotagas/ShopNest/blob/227c8b85f038addb5bf805477b8c61dd5085b62d/Executive_summary_2.png" alt="Image Alt">
+  <img src="https://github.com/EliasPotagas/ShopNest/blob/c45ae66720e87c17fa2226ecf2de265001b84f1f/Pictures/Executive_dashboard.png" alt="Image Alt">
 </p>
 
 **Total overall sales** from **January 1st, 2019 to December 31st, 2022** were **$28M**, with **108K total orders**. The company’s **AOV** was **$260**, and the overall **refund rate** stood at **5.04%**.
