@@ -31,7 +31,7 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
     
 </details>
 
-# Executive Summary TODO ADD DOLLAR SIGNS FOR Y-AXIS
+# Executive Summary
 
 <p align="center">
   <img src="https://github.com/EliasPotagas/ShopNest/blob/c45ae66720e87c17fa2226ecf2de265001b84f1f/Pictures/Executive_dashboard.png" alt="Image Alt">
