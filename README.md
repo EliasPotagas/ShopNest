@@ -154,7 +154,7 @@ ShopNest serves customers in **194 countries** across four global regions: **Nor
 - **Apple AirPods** accounted for **83%** of all Apple product refunds, making them the **primary driver of returns**. 
 - Lenovo’s ThinkPad laptops and Apple’s MacBook laptops had the highest refund rates, with ThinkPads reaching 12%, surpassing all other product categories.
 
-## Refunds by Products
+## Refunds by Products UPDATE IMAGE
 <p align="center">
   <img src="https://github.com/EliasPotagas/ShopNest/blob/53d46b7d38d2a9cb327766928eb55a26c137447c/Pictures/refunds_dashboard.png" alt="Image Alt">
 </p>
