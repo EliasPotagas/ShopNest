@@ -49,7 +49,7 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
 
 
 
-# Sales Trends
+# Sales Trends (MAYBE HAVE OVERVIEW BULLET POINTS?? LIKE 3-4 GOING OVER GENERAL TRENDS FOR ALL GRAPHS??)
 ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/912f6dd272da51bdd74be7e148cb1f726614e397/Executive_summary.png)
 <table>
   <tr>
