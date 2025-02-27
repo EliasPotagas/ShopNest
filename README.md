@@ -125,42 +125,31 @@ ShopNest serves customers in **194 countries** across four global regions: **Nor
 ## Products
 ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/265eab5c076a2d574bb8018a00938cab75aa6b3e/product_table.png)
 
-- **Highest Order Volume:** Apple AirPods led in order count with **48K orders (45% of total orders)**, generating **$7.8M in sales (28% of total revenue)** with an **AOV of $160**.  
+- **Most Popular Product:** Apple AirPods led in order count with **48K orders (45% of total orders)**, generating **$7.8M in sales (28% of total revenue)** with an **AOV of $160**.  
 
 - **Top Product by Revenue:** Sony’s Gaming Monitor was the highest revenue-generating product, contributing **35% of total revenue**, with an **AOV of $420**.  
 
-- **Laptop Demand & High AOV:** Laptops accounted for **33% of total sales ($9.5M)**. Despite having the **lowest order volume**, they had the **highest AOV**, averaging **$1.3K per order**.
+- **Laptop Demand:** Laptops accounted for **33% of total sales ($9.5M)**. Despite having the **lowest order volume**, they had the **highest AOV**, averaging **$1.3K per order**.
 - **Least Popular Product:** Bose Headphones had the weakest performance, recording just **3K units sold** and **27 total orders**, making them the **least desirable product** in our catalog.
-- **Apple iPhone’s Underperformance:** Despite high demand for Apple products, the iPhone was the **worst-performing product**, with only **288 units sold**, generating **$213K in sales**.
-
+- **Refunds:** Lenovo’s ThinkPad laptops and Apple’s MacBook laptops had the highest refund rates, with ThinkPads reaching 12%, surpassing all other product categories
 
 ### Recommendations:
 - **Samsung Products**: While **demand is high**, introducing **product bundles** with **higher AOV items** could drive **increased revenue and profitability** by encouraging **larger purchases**.  
 
 - **Apple iPhone**: With only **288 orders** but a **high AOV of $740**, targeted **Loyalty Program promotions** with **exclusive discounts** for existing **Apple consumers** could **boost sales**, strengthen **Loyalty Program engagement**, and drive a **notable increase in total revenue**.  
 
-- **Removing the Bose Headphones**: Due to their **poor performance** and **lack of resonance with customers**, removing them from the website would create space for a **more appealing and higher-performing product**.  
-
-
-
-
-## Refunds TODO 
+- **Removing the Bose Headphones**: Due to their **poor performance** and **lack of resonance with customers**, removing them from the website would create space for a **more appealing and higher-performing product**.
+- Conduct a quality assurance and consumer feedback review to identify the key reasons behind the high return rates for the laptops and implement necessary improvements to reduce refunds.
+## Refunds 
 <p align="center">
-  <img src="https://github.com/EliasPotagas/ShopNest/blob/0ffbddf33d55fbaec22057b26aa197b82d60fe02/brand_refunds_v3.png" alt="Image Alt">
+  <img src="https://github.com/EliasPotagas/ShopNest/blob/d6116784f5a38ca520567f426f23a39ab59e0e5e/Pictures/refunds_linegraph.png" alt="Image Alt">
 </p>
   
-- The overall **refund rate** stood at **5.04%**, with **5,379 refunds** issued out of **108K orders**, totaling **$1.7M** in refund costs.
-- **Apple products** accounted for the majority of refunds (**3,111**), with a **5.91% return rate**, totaling **$1.2M** in refund costs, representing **70%** of all refunds issued.
-- **Apple AirPods** accounted for **83%** of all Apple product refunds, making them the **primary driver of returns**. 
-- Lenovo’s ThinkPad laptops and Apple’s MacBook laptops had the highest refund rates, with ThinkPads reaching 12%, surpassing all other product categories.
+- **Apple AirPods** accounted for **83%** of all Apple product refunds, making them the **primary driver of returns**.
+- Data Gap
+- Most refunded product MoM + metrics
+- why were there dips in refunds for x period
 
-## Refunds by Products UPDATE IMAGE
-<p align="center">
-  <img src="https://github.com/EliasPotagas/ShopNest/blob/53d46b7d38d2a9cb327766928eb55a26c137447c/Pictures/refunds_dashboard.png" alt="Image Alt">
-</p>
-
-### Recommendation: 
-  - Conduct a quality assurance and consumer feedback review to identify the key reasons behind the high return rates for the laptops and implement necessary improvements to reduce refunds.
 
 # Insights and Recommendations
 
