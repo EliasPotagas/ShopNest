@@ -174,9 +174,9 @@ ShopNest serves customers in **194 countries** across four global regions: **Nor
 
 # Dashboard 
 
-The interactive dashboard can be found in Tableau Public here. 
+The interactive dashboard can be found in Tableau Public <a href="https://public.tableau.com/app/profile/elias.potagas/viz/ShopNestDashboard/E-CommerceDashboard?publish=yes">here</a>.   
 
-![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/ab076e8e5909a1c6690d1c3ec7d984469bc62820/Dashboard_v2.png)
+![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/0b1109a39f22a0c4a1b83f0856edaf0f2972a638/Pictures/ShopNest_Dashboard.png)
 
 
 # Entity Relation Diagram
