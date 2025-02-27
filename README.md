@@ -4,10 +4,11 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
 <details>
   <summary>Goals</summary>
 
-   **ShopNest** has gathered extensive data on key business metrics, including **sales performance, average order value (AOV), order trends, refunds, loyalty program engagement, regional sales, and marketing effectiveness**. However, this data remains largely **unrefined**, limiting its potential to drive **strategic decision-making and business growth**. By analyzing these metrics, **ShopNest** can gain a deeper understanding of **customer behavior, operational efficiencies, and market trends**.
+  The goals are to **focus on cleaning, organizing, and visualizing** the data to uncover meaningful insights that support cross-functional teams. By leveraging **interactive dashboards and data-driven analysis**, the objective is to **optimize business strategies, enhance customer engagement, and improve overall performance**, ensuring **continued growth in the competitive e-commerce landscape**.  
 
-   The goals are to **focus on cleaning, organizing, and visualizing** the data to uncover meaningful insights that support teams across **finance, sales, product, and marketing**. By leveraging **interactive dashboards and data-driven analysis**, the goal is to **optimize business strategies, enhance customer engagement, and improve overall performance**, ensuring **continued growth in the competitive e-commerce landscape**.
 </details>
+
+
 
 <details>
   <summary>Stakeholder Questions</summary>
@@ -86,8 +87,11 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
   </tr>
 </table>
 
-## Seasonal Performance TODO 
+## Seasonal Performance
 ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/84e39a1d6507966e211737963f3a3c9c133feb67/Pictures/seasonal_dashboard_2.png)
+- **Best Months:** **December, September, and November** have been the best-performing months on average, YoY.
+- **Monthly Trends:** **February, June, and October** see **15-25%** dips, with **February 2022** at **$472K** and **June 2021** down **22.4% YoY**.  
+- **Seasonal Trends:** Gradual growth of **up to 20%** from **June to September**, a **10-15% dip** in **October**, and a **20-30% surge** leading into **December**.  
 
 # Loyalty Program
   ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/bb2a8f6ebadb942e9c12ac36372265e2c456722f/Pictures/loyalty_dashboard_4.png)
@@ -131,24 +135,20 @@ ShopNest serves customers in **194 countries** across four global regions: **Nor
 
 - **Laptop Demand:** Laptops accounted for **33% of total sales ($9.5M)**. Despite having the **lowest order volume**, they had the **highest AOV**, averaging **$1.3K per order**.
 - **Least Popular Product:** Bose Headphones had the weakest performance, recording just **3K units sold** and **27 total orders**, making them the **least desirable product** in our catalog.
-- **Refunds:** Lenovo’s ThinkPad laptops and Apple’s MacBook laptops had the highest refund rates, with ThinkPads reaching 12%, surpassing all other product categories
-
+- **Refund Cost:** Issued a total of 5,304 refunds, amounting to $1.7 million in costs.
+  
 ### Recommendations:
 - **Samsung Products**: While **demand is high**, introducing **product bundles** with **higher AOV items** could drive **increased revenue and profitability** by encouraging **larger purchases**.  
-
 - **Apple iPhone**: With only **288 orders** but a **high AOV of $740**, targeted **Loyalty Program promotions** with **exclusive discounts** for existing **Apple consumers** could **boost sales**, strengthen **Loyalty Program engagement**, and drive a **notable increase in total revenue**.  
-
-- **Removing the Bose Headphones**: Due to their **poor performance** and **lack of resonance with customers**, removing them from the website would create space for a **more appealing and higher-performing product**.
 - Conduct a quality assurance and consumer feedback review to identify the key reasons behind the high return rates for the laptops and implement necessary improvements to reduce refunds.
 ## Refunds 
 <p align="center">
   <img src="https://github.com/EliasPotagas/ShopNest/blob/d6116784f5a38ca520567f426f23a39ab59e0e5e/Pictures/refunds_linegraph.png" alt="Image Alt">
 </p>
   
-- **Apple AirPods** accounted for **83%** of all Apple product refunds, making them the **primary driver of returns**.
-- Data Gap
-- Most refunded product MoM + metrics
-- why were there dips in refunds for x period
+- **Brand Refunds:** Apple products accounted for **83%** of all Apple product refunds, making them the **primary driver of returns**.
+- **Data Gap:** has persisted since August 1st, 2021, and remains unresolved. A meeting with the data engineering team is necessary to identify and address the issue.
+- **Top Refunded Product:** Apple AirPods consistently ranked as the most refunded product month over month.
 
 
 # Insights and Recommendations
