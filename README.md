@@ -27,7 +27,7 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
   <summary>Tools Used</summary>
   
   - **BigQuery**: Script can be found <a href="https://github.com/EliasPotagas/ShopNest/blob/4534ca22a56d7cd0d01e425c0bcc6a4b345dfbf4/SQL/ShopNest.sql">here</a>. 
-  - **Excel**: Dataset can be found here.
+  - **Excel**: Dataset can be found <a href="https://github.com/EliasPotagas/ShopNest/blob/main/Excel/ShopNest_raw.zip">here</a>.  
   - **Tableau**: Dashboard can be found <a href="https://github.com/EliasPotagas/ShopNest/blob/4534ca22a56d7cd0d01e425c0bcc6a4b345dfbf4/Tableau/ShopNest%20Dashboard.twbx">here</a>.
   
 </details>
