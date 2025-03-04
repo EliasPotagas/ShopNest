@@ -144,9 +144,11 @@ ShopNest serves customers in **194 countries** across four global regions: **Nor
 - Conduct a quality assurance and consumer feedback review to identify the key reasons behind the high return rates for the laptops and implement necessary improvements to reduce refunds.
 ## Refunds 
 <p align="center">
-  <img src="https://github.com/EliasPotagas/ShopNest/blob/d6116784f5a38ca520567f426f23a39ab59e0e5e/Pictures/refunds_linegraph.png" alt="Image Alt">
+  <img src="https://github.com/EliasPotagas/ShopNest/blob/d6116784f5a38ca520567f426f23a39ab59e0e5e/Pictures/refunds_linegraph.png" 
+       alt="Image Alt"
+       width="700">
 </p>
-  
+
 - **Brand Refunds:** Apple products accounted for **83%** of all Apple product refunds, making them the **primary driver of returns**.
 - **Data Gap:** has persisted since August 1st, 2021, and remains unresolved. A meeting with the data engineering team is necessary to identify and address the issue.
 - **Top Refunded Product:** Apple AirPods consistently ranked as the most refunded product month over month.
