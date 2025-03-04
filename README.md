@@ -141,7 +141,7 @@ ShopNest serves customers in **194 countries** across four global regions: **Nor
 
 - **Laptop Demand:** Laptops accounted for **33% of total sales ($9.5M)**. Despite having the **lowest order volume**, they had the **highest AOV**, averaging **$1.3K per order**.
 - **Least Popular Product:** Bose Headphones had the weakest performance, recording just **3K units sold** and **27 total orders**, making them the **least desirable product** in our catalog.
-- **Refund Cost:** Issued a total of 5,304 refunds, amounting to $1.7 million in costs.
+- **Refund Cost:** Issued a total of 5,379 refunds, amounting to $1.7 million in costs.
   
 ### Recommendations:
 - **Samsung Products**: While **demand is high**, introducing **product bundles** with **higher AOV items** could drive **increased revenue and profitability** by encouraging **larger purchases**.  
