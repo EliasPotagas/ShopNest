@@ -89,7 +89,12 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
 </table>
 
 ## Seasonal Performance
-![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/84e39a1d6507966e211737963f3a3c9c133feb67/Pictures/seasonal_dashboard_2.png)
+<p align="center">
+  <img src="https://github.com/EliasPotagas/ShopNest/blob/84e39a1d6507966e211737963f3a3c9c133feb67/Pictures/seasonal_dashboard_2.png" 
+       alt="Image Alt" 
+       width="900">
+</p>
+
 - **Best Months:** **December, September, and November** have been the best-performing months on average, YoY.
 - **Monthly Trends:** **February, June, and October** see **15-25%** dips, with **February 2022** at **$472K** and **June 2021** down **22.4% YoY**.  
 - **Seasonal Trends:** Gradual growth of **up to 20%** from **June to September**, a **10-15% dip** in **October**, and a **20-30% surge** leading into **December**.  
