@@ -103,9 +103,8 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
   ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/bb2a8f6ebadb942e9c12ac36372265e2c456722f/Pictures/loyalty_dashboard_4.png)
 The program, **launched in 2019**, was designed to incentivize **more frequent purchases** through **points-based rewards** and **discount offers**. It is now undergoing a **four-year performance evaluation** to determine whether it should be continued.
 
-- **Sales Growth**: The **Loyalty Program** was initially contributing a modest **11% of total sales**, while **non-members** accounted for **89%**. However, by **2021**, members' contribution to total revenue had risen significantly to **50%**, a level that was sustained in **2022**.  
-- **AOV Growth**: The **Average Order Value (AOV)** for **loyalty members** has been steadily rising, highlighting the effectiveness of our **loyalty program perks** in driving **higher spending** among members, whereas **non-members** appear **less inclined to spend** due to the absence of these **rewards and benefits**.  
 - **Revenue Contribution**: Between **Q4 2020 and Q3 2022**, **loyalty members** placed **most orders**, with a **10% higher order rate** and **rising AOV**. While **non-members** generated **$17 million** in sales (**2019–2022**) versus **$10 million** from **members**, **loyalty revenue is on track to surpass non-members**, underscoring the **program’s growing impact**.  
+- **AOV Growth**: The **Average Order Value (AOV)** for **loyalty members** has been steadily rising, highlighting the effectiveness of our **loyalty program perks** in driving **higher spending** among members, whereas **non-members** appear **less inclined to spend** due to the absence of these **rewards and benefits**.  
 - **Insight**: Given the **positive trajectory** in **order volume, AOV, and overall sales** among **loyalty members**, it is recommended to **increase promotion and marketing efforts** for the **Loyalty Program** to attract more users and **boost overall AOV**.  
 
 
