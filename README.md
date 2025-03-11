@@ -99,7 +99,7 @@ Founded in 2017, ShopNest is a leading global e-commerce platform specializing i
 - **Monthly Trends:** **February, June, and October** see **15-25%** dips, with **February 2022** at **$472K** and **June 2021** down **22.4% YoY**.  
 - **Seasonal Trends:** Gradual growth of **up to 20%** from **June to September**, a **10-15% dip** in **October**, and a **20-30% surge** leading into **December**.  
 
-# Loyalty Program
+# Loyalty Program (what is the average annual sales for each  group)
   ![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/bb2a8f6ebadb942e9c12ac36372265e2c456722f/Pictures/loyalty_dashboard_4.png)
 The program, **launched in 2019**, was designed to incentivize **more frequent purchases** through **points-based rewards** and **discount offers**. It is now undergoing a **four-year performance evaluation** to determine whether it should be continued.
 
