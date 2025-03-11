@@ -133,7 +133,11 @@ ShopNest serves customers in **194 countries** across four global regions: **Nor
 
 
 ## Products
-![Image Alt](https://github.com/EliasPotagas/ShopNest/blob/dac5b152c37e2293dd977ce90f27c84591a4a678/Pictures/product_table_v2.png)
+<p align="center">
+  <img src="https://github.com/EliasPotagas/ShopNest/blob/dac5b152c37e2293dd977ce90f27c84591a4a678/Pictures/product_table_v2.png" 
+       alt="Image Alt" 
+       width="900">
+</p>
 
 - **Most Popular Product:** Apple AirPods led in order count with **48K orders (45% of total orders)**, generating **$7.8M in sales (28% of total revenue)** with an **AOV of $160**.  
 
